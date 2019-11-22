@@ -22,4 +22,8 @@ Shift F3 will remove every other clip (AKA the blocks of video that are outside 
 00:00:50:00  
 etc...  
   
-Not formatted maybe?
+Take the number of clips you have in your joblist (in the example above, 2)  
+and change "numberofclips = 0" to "numberofclips = 2"  
+3. use shift + f1 to find where your mouse has to click on the screen to click this box  
+![Timestamp box](https://github.com/tntmod54321/Premiere-auto-cut-AHK-/blob/master/Screenshot_140.png)  
+xxx
