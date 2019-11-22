@@ -21,3 +21,5 @@ Shift F3 will remove every other clip (AKA the blocks of video that are outside 
 00:00:40:00  
 00:00:50:00  
 etc...  
+  
+Not formatted maybe?
