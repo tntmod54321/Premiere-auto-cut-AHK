@@ -24,6 +24,8 @@ etc...
   
 Take the number of clips you have in your joblist (in the example above, 2)  
 and change "numberofclips = 0" to "numberofclips = 2"  
-3. use shift + f1 to find where your mouse has to click on the screen to click this box  
+3. use Shift + F1 to find where your mouse has to click on the screen to click the box with the timestamp  
 ![Timestamp box](https://github.com/tntmod54321/Premiere-auto-cut-AHK-/blob/master/Screenshot_140.png)  
-xxx
+Save the coordinates, and change "mousecutx" to the x value, do the same for the y value and "mousecuty"  
+4. Using the same Shift + F1 shortcut to figure out where you want the menu (tooltip) to show up with the values tooltipmouseposx and tooltipmouseposy  
+Then you should just be able to use Shift + F2 then Shift + F3 in premiere pro and end up with some nicely cut clips.
