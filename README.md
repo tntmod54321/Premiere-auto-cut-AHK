@@ -28,4 +28,6 @@ and change "numberofclips = 0" to "numberofclips = 2"
 ![Timestamp box](https://github.com/tntmod54321/Premiere-auto-cut-AHK-/blob/master/Screenshot_140.png)  
 Save the coordinates, and change "mousecutx" to the x value, do the same for the y value and "mousecuty"  
 4. Using the same Shift + F1 shortcut to figure out where you want the menu (tooltip) to show up with the values tooltipmouseposx and tooltipmouseposy  
-Then you should just be able to use Shift + F2 then Shift + F3 in premiere pro and end up with some nicely cut clips.
+5. And lastly you need to bind the functions Close Gap to "Ctrl+Shift+F10" and Add Edit to All Tracks to "Ctrl+Shift+K", you can change these binds in Premiere and in the AHK script if you want though.
+Then you should just be able to use Shift + F2 then Shift + F3 in premiere pro and end up with some nicely cut clips.  
+(note that this script was designed for a slightly altered default keyboard shortcut setup so if you're a poweruser your binds might conflict with the ones in the script, for example d being the default "Select All Clips at Playhead" key is used here.
