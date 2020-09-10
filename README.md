@@ -1,6 +1,7 @@
+# This is outdated and garbage
 # Premiere-auto-cut-AHK
 
-# The most important thing, and the biggest issue with this script (but I'm too lazy to fix it), is that you need to change the variable numberofclips at the start of the file otherwise the script will crash or otherwise behave unexpectedly.  
+The most important thing, and the biggest issue with this script (but I'm too lazy to fix it), is that you need to change the variable numberofclips at the start of the file otherwise the script will crash or otherwise behave unexpectedly.  
 This script requires TextFormat (An AHK library) it can be found [Here](https://github.com/hi5/TF), simply put tf.ahk in the same folder as this script.  
 Also you need to select all video and audio tracks or the unselected ones will be deleted.  
 ![select all audio tracks](https://github.com/tntmod54321/Premiere-auto-cut-AHK-/blob/master/Screenshot_139.png)  
